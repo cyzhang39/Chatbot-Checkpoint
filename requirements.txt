@@ -1,0 +1,14 @@
+flask
+ctransformers==0.2.5
+langchain_community
+langchain
+transformers==4.27.1
+python-dotenv
+pinecone-client==2.2.4
+torch (if not enough RAM e.g. killed, then use pip install torch --no-cache-dir)
+sentence_transformers==2.2.2
+chromadb
+sentencepiece
+
+accelerate
+bitsandbytes
